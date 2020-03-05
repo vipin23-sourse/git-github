@@ -1,3 +1,3 @@
 # git-github
 
-this is for my study purpose
+this is for my project purpose
